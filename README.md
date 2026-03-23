@@ -52,3 +52,6 @@ Overall, this task demonstrates how to deploy a machine learning model as a REST
 
 output of the task:
 
+<img width="1055" height="254" alt="Image" src="https://github.com/user-attachments/assets/3c637c5b-3451-4c57-92bf-1ee3c3a7d7cb" />
+<img width="759" height="263" alt="Image" src="https://github.com/user-attachments/assets/570a4ae3-e6a6-4008-be68-ec0850c90ff0" />
+<img width="1100" height="272" alt="Image" src="https://github.com/user-attachments/assets/0d8033c2-7b0a-4b82-8462-ab760a310073" />
